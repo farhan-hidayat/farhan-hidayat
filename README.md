@@ -4,14 +4,14 @@
 </div>
 
 <div align="center">
-  <a href="#">
+  <a href="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg">
   <img  src="https://github.com/1999AZZAR/1999AZZAR/blob/main/resources/img/grid-snake.svg"
        alt="snake" /></a>
 </div>
 
 <div align="center">
-       <a href="#">
-  <img top="500" height="300" width="400" alt="GIF" src="https://media.giphy.com/media/SWoSkN6DxTszqIKEqv/giphy.gif">
+       <a href="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
+  <img alt="GIF" src="https://github.com/Adam-pw/Adam-pw/blob/main/animation_500_kxa883sd.gif">
 </a>
 </div>
 
