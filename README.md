@@ -43,15 +43,13 @@
           <img width="49.5%" src="https://github-readme-stats.vercel.app/api?username=farhan-hidayat&show_icons=true&theme=gruvbox&hide_border=true" />
           <img width="49.5%" src="https://github-readme-streak-stats.herokuapp.com/?user=farhan-hidayat&theme=gruvbox&hide_border=true" />
           </a>
-       </p>
-     <br>
-     </samp>
-  </div>    
+       </p> 
 </details>
 <details open>
   <summary><h3>Trophy</h3></summary>
         <p align="center">
-          <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=farhan-hidayat" alt="farhan-hidayat" /></a>
+          <a href="https://github.com/farhan-hidayat/">
+            <img src="https://github-profile-trophy.vercel.app/?username=farhan-hidayat&theme=gruvbox&layout=compact&hide_border=true" /></a>
        </p>
      <br>
      </samp>
